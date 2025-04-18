@@ -11,7 +11,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, confusion_matrix
 
 # 🔹 Load the dataset
-data = pd.read_csv(r"/Users/anjalikulkarni/Downloads/ML project/feb/synthetic_credit_risk_data.csv")
+data = pd.read_csv(r"/Users/anjalikulkarni/Downloads/ML project/feb/fake_loan_data.csv")
 
 # 🔹 Ensure correct data types
 for col in data.select_dtypes(include=['object']).columns:
