@@ -1,0 +1,51 @@
+age,gender,marital_status,dependents,education_level,employment_status,occupation,annual_income,pan_card,aadhaar_number,loan_amount,loan_purpose,loan_term,interest_rate,repayment_schedule,current_loan_balance,property_type,property_valuation,ownership_status,property_age,existing_liabilities,credit_score,previous_loans,outstanding_loan_balances,credit_inquiries,debt_to_income_ratio,savings_balance,existing_debts,monthly_expenses,loan_status
+31,Female,Married,2,PhD,Self-employed,Doctor,1844117.01,QEfxv1234K,644180837174,1853964,Home,24,8.36,Monthly,349329,House,3907197,Owned,28,7,532,2,414313,5,0.18,407451,316374,85771,Pending
+64,Male,Married,4,Master's,Retired,Teacher,1350307.37,sMdzn1234I,977018127706,1164108,Education,120,11.88,Yearly,498137,Apartment,4663997,Owned,3,10,437,2,714970,5,0.51,115731,199413,73649,Pending
+32,Male,Divorced,4,PhD,Unemployed,Lawyer,1499102.43,vwJth1234n,135022071815,2766288,Personal,24,9.71,Yearly,977493,Apartment,624891,Owned,21,10,709,1,211914,4,0.3,158870,49115,81683,Pending
+30,Other,Widowed,4,High School,Employed,Doctor,251283.06,roygk1234Y,467847458763,2576643,Car,12,13.72,Monthly,371573,Apartment,3258481,Rented,9,9,534,4,782516,4,0.28,380715,164439,20362,Pending
+62,Other,Married,4,Bachelor's,Retired,Doctor,603841.02,WcmoY1234J,205261212711,2857665,Business,120,11.8,Yearly,53976,Apartment,2215582,Rented,4,10,646,5,395938,3,0.21,925465,426120,97193,Rejected
+46,Male,Divorced,0,High School,Self-employed,Doctor,1836426.79,WAPkb1234N,483776357768,552856,Education,36,9.75,Quarterly,780078,Apartment,3708600,Mortgaged,14,1,376,3,55426,0,0.12,98191,123913,52931,Rejected
+39,Female,Married,3,PhD,Retired,Engineer,681807.41,zKLgH1234O,787992940152,1801419,Education,12,8.14,Yearly,285959,Land,2968554,Rented,22,9,428,5,626941,1,0.39,830616,55438,12912,Rejected
+61,Other,Widowed,1,Master's,Self-employed,Businessperson,667375.94,ogtZQ1234Z,272405052068,1194939,Education,36,9.71,Monthly,640625,Land,2688646,Owned,25,5,774,5,486913,0,0.26,506465,259219,55273,Approved
+38,Other,Widowed,4,High School,Self-employed,Engineer,305085.24,eqeqr1234x,905177055618,1893804,Business,120,8.87,Quarterly,545079,House,3211138,Mortgaged,14,0,703,1,417161,3,0.16,540985,122757,11428,Approved
+59,Other,Married,2,High School,Self-employed,Artist,1189864.32,dIpNI1234V,233793143072,1913660,Car,120,8.51,Yearly,842229,Land,1562237,Owned,29,5,734,4,322000,2,0.11,601497,66056,6673,Rejected
+57,Female,Married,0,Master's,Unemployed,Engineer,1340340.7,Adxqt1234w,337615324594,1995654,Home,12,6.7,Yearly,596657,Land,4285949,Mortgaged,16,3,717,2,968125,2,0.58,451318,68614,8006,Rejected
+21,Other,Married,1,Master's,Retired,Engineer,384615.83,IqQYL1234a,164859040470,1076613,Education,36,14.49,Quarterly,873011,Apartment,680916,Rented,26,6,300,0,768721,2,0.46,669391,194490,56627,Pending
+51,Female,Divorced,1,Master's,Unemployed,Engineer,1084164.87,birVa1234M,969536797183,509827,Education,12,13.57,Monthly,817897,House,2763362,Owned,26,4,360,0,986314,3,0.43,451533,124584,32457,Approved
+56,Female,Divorced,0,Master's,Retired,Teacher,1320095.01,npTNr1234a,416268449767,1346201,Business,24,8.15,Quarterly,335802,House,3000923,Owned,7,3,461,3,49525,5,0.4,407421,204739,49692,Rejected
+36,Female,Widowed,2,Master's,Employed,Businessperson,1209811.43,JlyVp1234K,621692899447,1698241,Home,24,13.27,Monthly,517736,House,4175788,Mortgaged,5,1,666,4,564662,1,0.31,840989,400702,73287,Approved
+65,Female,Married,2,PhD,Employed,Engineer,425405.15,nViut1234V,880338120003,1697118,Car,12,13.98,Quarterly,503884,Land,3683075,Rented,12,7,825,4,729063,3,0.27,641769,264473,95059,Approved
+43,Male,Widowed,4,Master's,Self-employed,Doctor,1250516.68,zayHx1234K,388259547712,350338,Education,120,7.82,Yearly,187473,Land,4066747,Mortgaged,23,4,384,0,950232,4,0.14,910932,224278,67392,Rejected
+24,Female,Widowed,0,PhD,Self-employed,Lawyer,1184683.43,qAVDA1234Y,390106004744,1700764,Personal,60,11.36,Yearly,453441,House,1289289,Owned,6,1,519,5,360523,2,0.3,853225,389452,36003,Rejected
+41,Female,Divorced,4,Master's,Employed,Engineer,1251752.97,eCKgg1234u,864922147338,2650739,Business,120,7.34,Yearly,957802,Apartment,1072620,Owned,1,3,599,4,170447,5,0.59,906618,248570,25117,Pending
+62,Female,Widowed,4,PhD,Unemployed,Lawyer,1712930.33,jRPzN1234d,718626611765,1194261,Home,24,12.72,Monthly,725116,Apartment,4517126,Rented,4,7,302,2,832457,1,0.3,876820,123111,8146,Rejected
+52,Female,Single,4,High School,Retired,Engineer,1362194.12,jGLjj1234Q,824491214593,2624474,Business,36,13.18,Quarterly,198642,Land,4499160,Rented,26,4,678,2,180242,5,0.21,376777,423060,54355,Pending
+33,Other,Married,2,Master's,Unemployed,Engineer,1119169.38,LrFnz1234l,544592368850,2456087,Personal,36,13.13,Yearly,247617,House,1406471,Mortgaged,14,6,713,0,944163,4,0.45,737008,379752,39749,Pending
+51,Female,Widowed,3,Bachelor's,Self-employed,Lawyer,225509.28,QMJwL1234z,497707193962,2333916,Business,36,12.23,Monthly,870178,House,4215216,Owned,13,6,644,0,400374,1,0.25,604501,209767,67838,Rejected
+40,Female,Divorced,1,Master's,Unemployed,Doctor,326129.59,eGsbW1234Y,260994581042,1133016,Education,120,8.66,Quarterly,567539,House,639521,Mortgaged,18,9,519,3,946293,4,0.36,104748,26570,76376,Rejected
+56,Other,Married,3,Bachelor's,Retired,Artist,803895.16,cBBwe1234y,393575342240,889510,Education,24,14.78,Monthly,149504,House,3989112,Mortgaged,7,7,539,2,970141,2,0.37,403025,458262,72984,Approved
+28,Male,Married,4,Bachelor's,Unemployed,Artist,1592690.14,IHgvD1234Z,716444595853,109571,Education,24,10.07,Yearly,875984,Land,1397577,Rented,25,4,402,3,533932,1,0.25,531757,139684,91082,Approved
+63,Female,Single,2,PhD,Self-employed,Lawyer,1750594.68,OFWnH1234P,321275585445,1085142,Education,12,10.19,Quarterly,704037,Land,3313864,Mortgaged,13,4,627,2,768342,3,0.57,246127,70512,35142,Pending
+54,Male,Single,4,High School,Unemployed,Businessperson,1924250.28,cQNSs1234p,452877437009,265221,Education,24,10.7,Quarterly,638810,House,3927962,Rented,20,10,460,3,624035,4,0.49,161018,387855,96604,Pending
+35,Other,Divorced,3,Bachelor's,Self-employed,Teacher,451458.64,AOPWr1234c,200273528149,1018650,Business,24,8.0,Quarterly,857277,Land,2508516,Mortgaged,6,10,684,1,7621,0,0.22,596919,492335,58515,Approved
+23,Male,Married,2,Master's,Employed,Lawyer,1328001.15,mObas1234Z,701677795297,1182713,Car,60,8.23,Quarterly,405956,House,3598288,Owned,20,10,667,4,380501,1,0.12,178708,71302,58351,Approved
+23,Male,Divorced,2,PhD,Unemployed,Artist,1917642.11,PkDTG1234b,341854132265,609797,Car,60,7.1,Monthly,44204,House,2715081,Mortgaged,16,6,393,0,257890,2,0.23,604676,465287,98567,Rejected
+61,Male,Single,4,High School,Self-employed,Doctor,812127.43,kkvqs1234i,552094803874,1728200,Car,24,12.93,Monthly,170121,Apartment,2893918,Rented,21,7,618,2,659773,0,0.14,649991,58004,46872,Approved
+51,Female,Single,3,PhD,Self-employed,Engineer,1069884.39,ilgMh1234f,554807657526,2394987,Home,24,10.69,Monthly,534151,Land,972263,Mortgaged,26,6,656,5,600330,3,0.21,526770,203708,48152,Pending
+27,Male,Married,1,Bachelor's,Unemployed,Artist,325494.68,cELJp1234w,501838799716,2297324,Home,12,10.48,Monthly,191427,Land,4399915,Rented,21,3,585,0,670151,3,0.57,820063,35489,31339,Pending
+63,Other,Single,3,Bachelor's,Unemployed,Engineer,1692217.48,gyUew1234e,544897909713,1064975,Education,120,8.61,Yearly,84609,Apartment,2057895,Rented,1,9,761,5,28216,1,0.35,667288,269154,32424,Approved
+56,Male,Widowed,3,PhD,Self-employed,Lawyer,1516048.35,MeqWf1234l,417367717579,2298015,Personal,120,12.95,Yearly,691947,Land,2313098,Mortgaged,13,5,379,0,81819,0,0.13,309046,302399,19649,Pending
+50,Male,Married,2,Master's,Retired,Engineer,1751955.87,EXVkw1234K,228780505711,1161770,Car,36,11.74,Monthly,565800,Land,1024346,Rented,4,4,415,4,895365,0,0.19,657276,366848,64792,Rejected
+31,Other,Married,1,PhD,Unemployed,Teacher,1832275.7,fAZIB1234q,114452897896,1449724,Business,60,14.69,Monthly,461872,Land,514051,Rented,26,7,715,0,833875,2,0.24,560795,122680,25730,Pending
+22,Female,Married,3,High School,Retired,Engineer,943394.62,hRStj1234D,825803810055,2358361,Education,60,9.65,Quarterly,652137,House,641612,Rented,23,0,887,4,925291,1,0.25,998693,67731,36440,Pending
+38,Male,Widowed,1,High School,Unemployed,Engineer,959187.03,fAqug1234T,880454637064,2832871,Home,36,12.7,Monthly,104535,House,3261006,Owned,11,7,764,2,589222,1,0.49,552916,52854,42894,Approved
+62,Male,Single,2,Bachelor's,Unemployed,Artist,1053228.56,rYhNV1234W,522283432955,140101,Home,12,6.51,Quarterly,912379,Apartment,4013739,Rented,14,8,402,1,812365,2,0.42,323568,478242,38161,Approved
+52,Other,Married,4,High School,Unemployed,Artist,815987.64,nbDGY1234v,395663284213,2058641,Home,36,7.28,Quarterly,146497,Apartment,1600474,Rented,30,0,784,5,479064,4,0.38,907347,447523,53446,Pending
+32,Other,Divorced,2,Master's,Employed,Teacher,1430030.37,awcnp1234r,680408373940,2325389,Home,36,10.89,Yearly,643784,House,2755487,Owned,20,10,313,2,173845,2,0.43,567708,231876,60020,Rejected
+35,Other,Widowed,4,Master's,Retired,Doctor,987127.78,RzfHc1234q,637841996854,702001,Personal,60,7.44,Yearly,71934,Apartment,4196652,Owned,9,10,426,2,315854,2,0.44,910479,13795,70553,Pending
+43,Other,Married,3,Master's,Retired,Artist,570218.62,tTWpX1234S,241857020848,314331,Education,60,10.07,Monthly,344,Land,3683806,Rented,11,8,863,4,298156,4,0.49,97142,386682,46930,Rejected
+46,Female,Widowed,0,High School,Employed,Teacher,629448.97,yVUFO1234g,688057024362,751406,Personal,120,10.43,Yearly,304295,Land,842736,Rented,5,1,724,5,684371,0,0.24,48905,315020,93489,Pending
+46,Male,Divorced,1,Master's,Unemployed,Businessperson,1971392.95,Gshkv1234e,949181948102,1186931,Car,12,7.34,Monthly,520666,House,3626157,Rented,12,0,709,0,314408,1,0.43,817412,148470,41087,Approved
+46,Male,Widowed,2,Master's,Unemployed,Doctor,997465.74,utdYK1234M,465009112935,1710563,Business,24,8.14,Yearly,28143,Apartment,3098412,Mortgaged,17,2,782,3,87664,0,0.14,795674,149682,11203,Pending
+35,Other,Single,2,Bachelor's,Unemployed,Doctor,281414.04,knrHl1234e,748199897031,1893960,Business,120,13.78,Yearly,917325,Apartment,2914561,Owned,19,6,441,0,924912,4,0.32,201257,14951,73398,Approved
+48,Male,Widowed,1,Bachelor's,Retired,Lawyer,623206.79,qmOgx1234d,223120034026,2203229,Education,12,11.64,Yearly,213348,House,3074213,Mortgaged,27,6,748,4,970160,3,0.32,779775,78409,96921,Approved
